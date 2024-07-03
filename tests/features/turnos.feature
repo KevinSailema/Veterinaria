@@ -19,4 +19,4 @@ Característica: Asignación de turnos
   Escenario: Asignación de turnos de emergencia
     Dado que existen "0" turnos disponibles en un día en particular
     Cuando se solicita un turno de emergencia
-    Entonces se "asigna" el tuirno y quedan "0" turnos disponibles
+    Entonces se "asigna" el turno y quedan "0" turnos disponibles
